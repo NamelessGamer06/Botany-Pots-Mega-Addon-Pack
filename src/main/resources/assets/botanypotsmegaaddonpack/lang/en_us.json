@@ -1,0 +1,13 @@
+{
+  "itemGroup.botanypotsmegaaddonpack": "Example Mod Tab",
+  "block.botanypotsmegaaddonpack.example_block": "Example Block",
+  "item.botanypotsmegaaddonpack.example_item": "Example Item",
+
+  "botanypotsmegaaddonpack.configuration.title": "Botany Pots Mega Addon Pack Configs",
+  "botanypotsmegaaddonpack.configuration.section.botanypotsmegaaddonpack.common.toml": "Botany Pots Mega Addon Pack Configs",
+  "botanypotsmegaaddonpack.configuration.section.botanypotsmegaaddonpack.common.toml.title": "Botany Pots Mega Addon Pack Configs",
+  "botanypotsmegaaddonpack.configuration.items": "Item List",
+  "botanypotsmegaaddonpack.configuration.logDirtBlock": "Log Dirt Block",
+  "botanypotsmegaaddonpack.configuration.magicNumberIntroduction": "Magic Number Text",
+  "botanypotsmegaaddonpack.configuration.magicNumber": "Magic Number"
+}
