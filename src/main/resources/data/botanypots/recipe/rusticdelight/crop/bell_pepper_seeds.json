@@ -1,0 +1,15 @@
+{
+    "bookshelf:load_conditions": [
+        {
+            "type": "bookshelf:block_exists",
+            "values": [
+                "rusticdelight:bell_peppers"
+            ]
+        }
+    ],
+    "type": "botanypots:block_derived_crop",
+    "block": "rusticdelight:bell_peppers",
+    "input": {
+        "item": "rusticdelight:bell_pepper_seeds"
+    }
+}

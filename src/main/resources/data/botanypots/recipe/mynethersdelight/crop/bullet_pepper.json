@@ -1,0 +1,18 @@
+{
+    "bookshelf:load_conditions": [
+        {
+            "type": "bookshelf:block_exists",
+            "values": [
+                "mynethersdelight:bullet_pepper"
+            ]
+        }
+    ],
+    "type": "botanypots:block_derived_crop",
+    "block": "mynethersdelight:bullet_pepper",
+    "input": {
+        "item": "mynethersdelight:bullet_pepper"
+    },
+    "soil": {
+        "tag": "botanypotsmegaaddonpack:nether_crop_grow_on"
+    }
+}

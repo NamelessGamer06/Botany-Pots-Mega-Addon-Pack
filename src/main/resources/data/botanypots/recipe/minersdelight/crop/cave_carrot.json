@@ -1,0 +1,18 @@
+{
+    "bookshelf:load_conditions": [
+        {
+            "type": "bookshelf:block_exists",
+            "values": [
+                "minersdelight:cave_carrots"
+            ]
+        }
+    ],
+    "type": "botanypots:block_derived_crop",
+    "block": "minersdelight:cave_carrots",
+    "input": {
+        "item": "minersdelight:cave_carrot"
+    },
+    "soil": {
+        "tag": "c:stones"
+    }
+}

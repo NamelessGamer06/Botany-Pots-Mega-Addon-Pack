@@ -1,0 +1,15 @@
+{
+    "bookshelf:load_conditions": [
+        {
+            "type": "bookshelf:block_exists",
+            "values": [
+                "rusticdelight:coffee"
+            ]
+        }
+    ],
+    "type": "botanypots:block_derived_crop",
+    "block": "rusticdelight:coffee",
+    "input": {
+        "item": "rusticdelight:coffee_beans"
+    }
+}
