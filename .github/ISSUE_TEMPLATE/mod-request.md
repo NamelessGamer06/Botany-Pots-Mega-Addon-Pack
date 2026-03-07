@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Mod Request
+about: Request A Mod To Be Added To The Main Mod
 title: "[MOD REQUEST]"
 labels: mod request
 assignees: ''
