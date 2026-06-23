@@ -126,7 +126,8 @@ dependencies {
     implementation "curse.maven:jei-238222:7420587"
 
     // Compatible Mods
-    implementation "curse.maven:expanded-delight-620770:7441587"
+    //implementation "curse.maven:cultural-delights-574622:8126191"
+    //implementation "curse.maven:expanded-delight-620770:7441587"
     //implementation "curse.maven:my-nethers-delight-1003673:6938550"
     //implementation "curse.maven:rustic-delight-1106612:7633077"
     //implementation "curse.maven:miners-delight-plus-689630:6860679"
